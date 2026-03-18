@@ -33,6 +33,8 @@ const dmMono = DM_Mono({
 });
 
 export const metadata: Metadata = {
+  // metadataBase is required so Next.js can resolve the auto-generated OG image URL
+  metadataBase: new URL("https://theanchorinitiative.org"),
   title: {
     default: "The Anchor Initiative | Anchored in Faith. Equipped for Life.",
     template: "%s | The Anchor Initiative",
@@ -55,9 +57,11 @@ export const metadata: Metadata = {
     title: "The Anchor Initiative | Anchored in Faith. Equipped for Life.",
     description:
       "TAI trains community leaders as Mental Health Anchors — providing emotional first aid, promoting mental wellness, and restoring hope in underserved communities.",
+    // og:image is auto-injected by app/opengraph-image.tsx
   },
   twitter: {
     card: "summary_large_image",
+    // twitter:image is auto-injected from app/opengraph-image.tsx
   },
 };
 
