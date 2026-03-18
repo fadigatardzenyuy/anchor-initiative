@@ -250,6 +250,44 @@ export const blogPosts = [
     slug: "what-is-emotional-first-aid",
     date: "March 10, 2025",
     image: "/images/blog-emotional-first-aid.jpg",
+    content: [
+      {
+        type: "paragraph",
+        text: "When someone breaks their arm, we don't tell them to pray harder and keep moving. We get them to a doctor. We treat the wound. Yet when someone experiences grief, shame, failure, or rejection — the kinds of psychological injuries that happen to all of us — we often expect people to simply push through.",
+      },
+      {
+        type: "paragraph",
+        text: "Emotional first aid is the practice of applying the same logic of care to our inner lives. Coined by psychologist Guy Winch, the concept is simple: just as physical first aid addresses wounds before they become infections, emotional first aid addresses psychological wounds before they become lasting damage.",
+      },
+      {
+        type: "heading",
+        text: "What Are Psychological Wounds?",
+      },
+      {
+        type: "paragraph",
+        text: "Psychological wounds include loneliness, rejection, failure, guilt, rumination, and loss. Left untreated, these experiences don't just fade — they compound. Loneliness deepens into isolation. Guilt hardens into shame. Failure unchecked becomes a story about who you are rather than something that happened to you.",
+      },
+      {
+        type: "paragraph",
+        text: "Emotional first aid means recognizing these wounds early and taking small, intentional steps to address them — before they define a person's trajectory.",
+      },
+      {
+        type: "heading",
+        text: "Why Every Community Needs It",
+      },
+      {
+        type: "paragraph",
+        text: "Professional mental health care is essential — but it is not always accessible. Cost, stigma, wait times, and cultural barriers mean that many people never see a therapist or counselor. In the meantime, they are surrounded by neighbors, friends, family members, and faith community members who could offer meaningful support if they only knew how.",
+      },
+      {
+        type: "paragraph",
+        text: "At The Anchor Initiative, we train community leaders as Mental Health Anchors — equipping them with the skills to recognize distress, offer compassionate support, and connect people to professional care when needed. Emotional first aid is the foundation of everything we do.",
+      },
+      {
+        type: "paragraph",
+        text: "You don't need a clinical degree to make a difference. You need awareness, empathy, and a few practical tools. That's what we provide.",
+      },
+    ],
   },
   {
     id: 2,
@@ -261,6 +299,52 @@ export const blogPosts = [
     slug: "faith-and-mental-wellness",
     date: "February 22, 2025",
     image: "/images/blog-faith-wellness.jpg",
+    content: [
+      {
+        type: "paragraph",
+        text: "In many faith communities, mental health struggles are still treated as spiritual failures — evidence of weak faith, unconfessed sin, or insufficient trust in God. This narrative is not only theologically incomplete; it is actively harmful.",
+      },
+      {
+        type: "paragraph",
+        text: "The result is a painful silence. People sit in pews, smile during fellowship, and carry invisible weights home with them. They fear that asking for help will mark them as spiritually deficient. And so they suffer alone.",
+      },
+      {
+        type: "heading",
+        text: "Faith Does Not Immunize Against Struggle",
+      },
+      {
+        type: "paragraph",
+        text: "The Psalms are full of anguish. Elijah collapsed in despair under a broom tree and asked to die. Job cried out from the depths of his suffering. Jesus himself wept at the tomb of Lazarus and prayed in agony in the garden of Gethsemane.",
+      },
+      {
+        type: "paragraph",
+        text: "Faith does not make us immune to mental health challenges. Depression, anxiety, trauma, and grief are not signs of spiritual failure — they are part of the human experience, and they are addressed with compassion throughout scripture.",
+      },
+      {
+        type: "heading",
+        text: "The Church as a Place of Healing",
+      },
+      {
+        type: "paragraph",
+        text: "Faith communities have always been places of care. At their best, they offer belonging, meaning, accountability, and support through life's hardest seasons. These are precisely the conditions that mental health research tells us are protective against psychological distress.",
+      },
+      {
+        type: "paragraph",
+        text: "But to fully embrace that healing role, congregations must name mental health struggles openly — from the pulpit, in small groups, in pastoral conversations — and create environments where people feel safe enough to be honest about what they're carrying.",
+      },
+      {
+        type: "heading",
+        text: "What TAI Is Doing",
+      },
+      {
+        type: "paragraph",
+        text: "The Anchor Initiative partners with faith communities to do exactly this. Through our Faith Community Integration program, we work with pastors and leaders to embed mental wellness into their care structures — not replacing faith, but enriching it with practical skills and a more complete theology of suffering and healing.",
+      },
+      {
+        type: "paragraph",
+        text: "If your congregation is ready to break the silence and become a place where the whole person is welcomed and cared for, we'd love to partner with you.",
+      },
+    ],
   },
   {
     id: 3,
@@ -272,6 +356,68 @@ export const blogPosts = [
     slug: "5-signs-someone-needs-support",
     date: "January 15, 2025",
     image: "/images/blog-community-support.jpg",
+    content: [
+      {
+        type: "paragraph",
+        text: "One of the most powerful things a community can do is pay attention. Not the kind of surveillance that invades privacy, but the kind of caring attention that notices when someone seems off — and shows up.",
+      },
+      {
+        type: "paragraph",
+        text: "Many mental health crises don't happen suddenly. They build over time, marked by signals that the people around us can learn to recognize. Here are five of the most common signs that someone may need support.",
+      },
+      {
+        type: "heading",
+        text: "1. Withdrawal from People and Activities",
+      },
+      {
+        type: "paragraph",
+        text: "When someone who was previously engaged starts pulling back — missing gatherings, declining invitations, going quiet on communication — it's often a sign that something is wrong. Isolation is both a symptom and a risk factor for mental health decline. Don't take it personally. Reach out with warmth.",
+      },
+      {
+        type: "heading",
+        text: "2. Changes in Mood or Behavior",
+      },
+      {
+        type: "paragraph",
+        text: "Unexplained irritability, increased tearfulness, emotional numbness, or dramatic shifts in personality can all indicate underlying distress. You may notice someone who was cheerful becoming flat, or someone who was calm becoming easily agitated. Trust your instincts when something seems different.",
+      },
+      {
+        type: "heading",
+        text: "3. Neglecting Basic Self-Care",
+      },
+      {
+        type: "paragraph",
+        text: "When people are struggling, basic maintenance — bathing, eating, sleeping, keeping their living space — often slips. This isn't laziness. It's a sign that their capacity has been overwhelmed. If someone who normally takes care of themselves appears disheveled, exhausted, or mentions not sleeping or eating, that's worth checking on.",
+      },
+      {
+        type: "heading",
+        text: "4. Expressing Hopelessness or Helplessness",
+      },
+      {
+        type: "paragraph",
+        text: "Listen for language that signals a loss of hope: 'Nothing ever changes,' 'What's the point,' 'I just can't do this anymore.' These statements sometimes pass as venting — and sometimes they're much more serious. Create space for honest conversation, and never minimize what you hear.",
+      },
+      {
+        type: "heading",
+        text: "5. Increased Use of Substances or Risky Behavior",
+      },
+      {
+        type: "paragraph",
+        text: "People in pain often reach for things that numb it — alcohol, substances, risky behaviors that offer a sense of control or escape. An increase in these patterns is a red flag. It doesn't mean the person is a bad person — it means they're hurting and have found an imperfect coping mechanism.",
+      },
+      {
+        type: "heading",
+        text: "What to Do When You Notice These Signs",
+      },
+      {
+        type: "paragraph",
+        text: "The first step is the simplest: show up and ask. You don't need to have all the answers. A genuine 'I've noticed you seem like you're having a hard time — how are you really doing?' can open a door that changes everything.",
+      },
+      {
+        type: "paragraph",
+        text: "If you want to be better equipped to have these conversations and connect people to real support, consider joining our Anchor Academy training. We'll give you the tools to move from noticing to helping — with compassion, skill, and confidence.",
+      },
+    ],
   },
 ];
 
